@@ -23,8 +23,8 @@ This is a simple web application that allows users to submit their information t
 
 1. **Clone the repository**:
     ```sh
-    git clone https://github.com/yourusername/user-form-app.git
-    cd user-form-app
+    git clone https://github.com/yourusername/FORMJS
+    cd FORMJS
     ```
 
 2. **Ensure you have a live server running**:
